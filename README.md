@@ -20,7 +20,7 @@ found [here](docs/dataset.txt).
 
 ### Data Wrangling
 
-View the code for data wrangling [here](tuh_eeg/dataset.py).
+View the code for data wrangling [here](tuh_epilepsy/dataset.py).
 
 There are a number of different ways information can
 be extracted from EEG signal data to train a CNN. The
